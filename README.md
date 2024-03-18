@@ -17,23 +17,14 @@ We first install the necessary libraries, including Langchain, OpenAI, and other
 
 
 We start by examining the metadata of the dataset, including the number of records and columns.
-
-
 We display a sample of records from the dataset to understand its structure and content.
-
-
 We check for any missing values in the dataset and report the findings.
-
-
 We analyze the probability distribution of the response variable, i.e., coronary heart disease (CHD).
-
-
 We perform univariate analysis to understand the characteristics of individual variables in the dataset.
 - Descriptive Statistics
 - Histograms
 - Box Plots
 - Bar Plots
-
 
 We identify outliers in the dataset, particularly focusing on the age variable among individuals suffering from CHD.
 
@@ -43,10 +34,7 @@ We conduct a hypothesis test to compare tobacco consumption between individuals 
 
 ## Bivariate Analysis
 
-
 We create a scatter plot to visualize the correlation between two numerical variables, such as adiposity and LDL cholesterol.
-
-
 We calculate the correlation coefficients between various variables and visualize the results using a heatmap.
 
 ## Conclusion
