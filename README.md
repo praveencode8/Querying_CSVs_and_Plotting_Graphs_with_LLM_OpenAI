@@ -40,3 +40,6 @@ We calculate the correlation coefficients between various variables and visualiz
 ## Conclusion
 
 In this assignment, we demonstrated how to interactively query CSV datasets, perform statistical analysis, and generate informative plots using LLMs. By leveraging these techniques, we gain valuable insights into the dataset and its underlying relationships.
+
+
+https://www2.stat.duke.edu/~cr173/Sta102_Sp14/Project/heart.pdf
